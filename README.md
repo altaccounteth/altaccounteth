@@ -23,11 +23,10 @@ Hi, I am **altaccounteth**, a passionate software developer.
 
 ## Badges
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-1.2M-brightgreen)
-![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-10-yellow)
-![GitHub Forks](https://img.shields.io/badge/GitHub%20Forks-5-blue)
-![GitHub Watchers](https://img.shields.io/badge/GitHub%20Watchers-2-red)
-
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-1.2M-brightgreen?style=for-the-badge&logo=codefactor)
+![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-10-yellow?style=for-the-badge&logo=github)
+![GitHub Forks](https://img.shields.io/badge/GitHub%20Forks-5-blue?style=for-the-badge&logo=github)
+![GitHub Watchers](https://img.shields.io/badge/GitHub%20Watchers-2-red?style=for-the-badge&logo=github)
 
 
 <!--
