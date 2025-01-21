@@ -17,7 +17,7 @@ Hi, I am **altaccounteth**, a passionate software developer.
 
 ## My GitHub Statistics
 
-![altaccounteth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=altaccounteth&show_icons=true&theme=radical)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=altaccounteth&theme=onedark&column=3&no-bg=true&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🧰 &nbsp;My toolbox
 
