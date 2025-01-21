@@ -19,7 +19,7 @@ Hi, I am **altaccounteth**, a passionate software developer.
 
 ## Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=altaccounteth&theme=github)]
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=altaccounteth&theme=github)]
 
 ## Badges
 
@@ -27,6 +27,7 @@ Hi, I am **altaccounteth**, a passionate software developer.
 ![GitHub Stars](https://img.shields.io/github/stars/altaccounteth?color=yellow)
 ![GitHub Forks](https://img.shields.io/github/forks/altaccounteth?color=blue)
 ![GitHub Watchers](https://img.shields.io/github/watchers/altaccounteth?color=red)
+
 
 <!--
 **altaccounteth/altaccounteth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
