@@ -18,7 +18,7 @@ Hi, I am **altaccounteth**, a passionate software developer.
 [![Trophies](https://github-profile-trophy.vercel.app/?username=altaccounteth&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=altaccounteth&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=altaccounteth&theme=github-compact&days=90&from=2024-07-07&grid=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=altaccounteth&theme=github&area=true&hide_border=true&custom_time_period=month)]
 
 ## Badges
