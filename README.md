@@ -23,11 +23,10 @@ Hi, I am **altaccounteth**, a passionate software developer.
 
 ## Badges
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-1.2M-brightgreen?style=for-the-badge&logo=codefactor)
-![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-10-yellow?style=for-the-badge&logo=github)
-![GitHub Forks](https://img.shields.io/badge/GitHub%20Forks-5-blue?style=for-the-badge&logo=github)
-![GitHub Watchers](https://img.shields.io/badge/GitHub%20Watchers-2-red?style=for-the-badge&logo=github)
-
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-1.2M-brightgreen?style=for-the-badge&logo=codefactor&logoColor=white&shape=round)
+![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-10-yellow?style=for-the-badge&logo=github&logoColor=white&shape=round)
+![GitHub Forks](https://img.shields.io/badge/GitHub%20Forks-5-blue?style=for-the-badge&logo=github&logoColor=white&shape=round)
+![GitHub Watchers](https://img.shields.io/badge/GitHub%20Watchers-2-red?style=for-the-badge&logo=github&logoColor=white&shape=round)
 
 <!--
 **altaccounteth/altaccounteth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
