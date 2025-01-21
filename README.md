@@ -11,7 +11,7 @@ Hi, I am **altaccounteth**, a passionate software developer.
 
 ## Most Used Languages
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altaccounteth&langs_count=8&theme=radical)]
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altaccounteth&langs_count=8&theme=radical&hide_progress=true)
 
 ## My Trophies
 
@@ -19,14 +19,15 @@ Hi, I am **altaccounteth**, a passionate software developer.
 
 ## Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=altaccounteth&theme=github&area=true&hide_border=true)]
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=altaccounteth&theme=github&area=true&hide_border=true&custom_time_period=month)]
 
 ## Badges
 
-![Lines of Code](https://img.shields.io/static/v1?label=Lines%20of%20Code&message=1.2M&color=brightgreen)
-![GitHub Stars](https://img.shields.io/static/v1?label=GitHub%20Stars&message=10&color=yellow)
-![GitHub Forks](https://img.shields.io/static/v1?label=GitHub%20Forks&message=5&color=blue)
-![GitHub Watchers](https://img.shields.io/static/v1?label=GitHub%20Watchers&message=2&color=red)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-1.2M-brightgreen)
+![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-10-yellow)
+![GitHub Forks](https://img.shields.io/badge/GitHub%20Forks-5-blue)
+![GitHub Watchers](https://img.shields.io/badge/GitHub%20Watchers-2-red)
+
 
 
 <!--
