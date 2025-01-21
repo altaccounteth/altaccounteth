@@ -32,16 +32,62 @@ Hi, I am **altaccounteth**, a passionate software developer.
 
 ### Contributions by Repository (Pie Chart)
 
-![Repositories Contributions](https://github-contributions-chart.vercel.app/api/chart?username=altaccounteth&type=pie&theme=radical)
+```python
+import matplotlib.pyplot as plt
+
+# Example data (replace with actual repository data)
+repo_names = ["Repo1", "Repo2", "Repo3", "Repo4"]
+contributions = [45, 30, 15, 10]
+
+# Create a pie chart
+plt.figure(figsize=(8, 8))
+plt.pie(contributions, labels=repo_names, autopct='%1.1f%%', startangle=140, colors=['#ff9999','#66b3ff','#99ff99','#ffcc99'])
+plt.title('Contributions by Repository')
+plt.show()
+```
 
 ### Commit Activity by Day (Bar Chart)
 
-![Commit Activity](https://github-contributions-chart.vercel.app/api/chart?username=altaccounteth&type=bar&theme=radical&hide_title=true)
+```python
+import matplotlib.pyplot as plt
+
+# Example data (replace with actual commit activity data)
+days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+commits = [15, 23, 20, 12, 18, 9, 6]
+
+# Create a bar chart
+plt.figure(figsize=(10, 6))
+plt.bar(days, commits, color='skyblue')
+plt.title('Commit Activity by Day')
+plt.xlabel('Days')
+plt.ylabel('Number of Commits')
+plt.show()
+```
 
 ### Experience Summary (Radar Chart)
 
-![Experience Summary](https://github-readme-chart.vercel.app/api/chart?username=altaccounteth&theme=radar&fields=commits,issues,pull_requests,contributions)
+```python
+import matplotlib.pyplot as plt
+import numpy as np
 
+# Example data (replace with actual metrics)
+categories = ['Commits', 'Pull Requests', 'Issues', 'Code Reviews']
+values = [70, 50, 40, 30]
+
+# Radar chart setup
+angles = np.linspace(0, 2 * np.pi, len(categories), endpoint=False).tolist()
+values += values[:1]
+angles += angles[:1]
+
+fig, ax = plt.subplots(figsize=(6, 6), subplot_kw=dict(polar=True))
+ax.fill(angles, values, color='blue', alpha=0.25)
+ax.plot(angles, values, color='blue', linewidth=2)
+ax.set_yticks([])
+ax.set_xticks(angles[:-1])
+ax.set_xticklabels(categories)
+ax.set_title('Experience Summary')
+plt.show()
+```
 
 <!--
 **altaccounteth/altaccounteth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
