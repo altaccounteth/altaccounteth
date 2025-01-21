@@ -19,7 +19,6 @@ Hi, I am **altaccounteth**, a passionate software developer.
 
 ## Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=altaccounteth&theme=github-compact&days=40&from=2024-05-05&grid=true&radius=16&to=2024-07-07)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=altaccounteth&theme=github&area=true&hide_border=true&custom_time_period=month)]
 
 ## Badges
 
